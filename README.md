@@ -1,4 +1,4 @@
 Matrix-Operations
 =================
 
-Dot, Cross Product, vector and matrix multiplication in C++
+Implementation of Dot, Cross Product, vector and matrix multiplication operations in C++
